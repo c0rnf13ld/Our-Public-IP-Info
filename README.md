@@ -5,3 +5,4 @@ Simple script in python3 that gives us basic information about our public ip, th
 ```
 python3 ip_dis.py
 ```
+The myip_public.py script shows us more information, also runs the same way as the script above
